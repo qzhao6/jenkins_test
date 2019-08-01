@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        echo 'Jenkins Mininute Pipeline'
+        echo 'Jenkins Minute Pipeline'
       }
     }
   }
